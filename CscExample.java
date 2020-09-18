@@ -38,6 +38,21 @@ public class CscExample.java{
                 return text;
         }
 
+	
+
+	 public void addQuestion(CscExample qu)
+{
+        this.questionNo = qu.getQuestionNo();
+}
+public void removeQuesstion(int quId)
+{
+        this.QustionNo = qu.getQuestionNo()
+}
+public void editQuestion(int quId)
+{
+        this.QuestionNo = qu.getQuestuiNo()
+
+}
 
 
 }
